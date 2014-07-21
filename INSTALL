@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+INSTALL
+-------------------------------------------------------------------------------
+
+DSLogic-fw is an project based on the keil IDE. You can open DSLogic.Uv2 project file with keil, and compile it.
+
+After compile, The binary firmware(DSLogic.fw) can be found in the "Ouput" dir.

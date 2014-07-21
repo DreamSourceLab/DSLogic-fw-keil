@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+README
+-------------------------------------------------------------------------------
+
+DSLogic-fw is an Open-source firmware for DSLogic
+DSLogic project: www.dreamsourcelab.com
+
+Status
+------
+
+DSLogic-fw is in a usable state and has had official
+tarball releases.
+
+
+Copyright and license
+---------------------
+
+DSLogic-firmware is licensed under the terms of the GNU General Public
+License (GPL), version 2 or later.
+
+It uses additional library EZUSB.lib, provided by CPRESS (http://www.cypress.com).
+
+
+Website
+-------
+
+ http://www.dreamsourcelab.com
+
